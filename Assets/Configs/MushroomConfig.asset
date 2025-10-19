@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f9d001deeb0b84583975b0d33ab448, type: 3}
+  m_Name: MushroomConfig
+  m_EditorClassIdentifier: 
+  damageSprites:
+  - {fileID: -4950811424175168505, guid: 1a56263c160ef1f48bff547fd8296567, type: 3}
+  - {fileID: 2128929219548655303, guid: dd73b96c8711fe74cbd8cec987d10dd2, type: 3}
+  - {fileID: -540466818734593348, guid: 6e9d5b6cad3f3304c9667a2d66b48821, type: 3}
+  - {fileID: -3828305397275239264, guid: 1a24fdb3cfbabfd459e523ab5b886de4, type: 3}
+  poisonedSprites:
+  - {fileID: 5090244338192832130, guid: bd7bb59cdd63085459bfa170105e0bbe, type: 3}
+  - {fileID: -3908897286339881375, guid: 3de0e4fc484bcbf42bb18a18788383ae, type: 3}
+  - {fileID: 2981830576512240459, guid: 36869f08ed1bb384b82943b6f8417d5b, type: 3}
+  - {fileID: 6981070290016510243, guid: 587e19f40833afd4a95f4d0ac1812bf5, type: 3}
+  spawnMinX: -8
+  spawnMaxX: 8
+  spawnMinY: -2.5
+  spawnMaxY: 4.5
